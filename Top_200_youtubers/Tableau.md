@@ -11,4 +11,4 @@ What skills i gain🤔
      🪴 Using multiple fileds to equalize the appearance of the dashboard
      🪴 Floating and design in Figma
      
-![Youtubers_viz](https://user-images.githubusercontent.com/98957777/184965098-1fb803d4-0759-4ce6-9773-c26282e1118d.png)
+![](Tableau-SQL-projects/Top_200_youtubers/Youtubers_viz.png)
