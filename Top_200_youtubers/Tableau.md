@@ -10,5 +10,5 @@ What skills i gain🤔
      🪴 Making pie, bar charts
      🪴 Using multiple fileds to equalize the appearance of the dashboard
      🪴 Floating and design in Figma
-</pre>     
-![top_200_youtubers_viz](https://user-images.githubusercontent.com/98957777/184968616-04ccd001-82fc-4f71-95f2-0884a6cf426a.png)
+</pre>   
+![top_200_youtubers_viz](https://user-images.githubusercontent.com/98957777/184969882-2cfa3e0d-c352-4788-ad88-2a4df74bffd6.png)
