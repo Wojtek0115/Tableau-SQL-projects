@@ -4,8 +4,15 @@ select
     count(case when resoult = 'Tie' then 1 else null end) as total_ties,
     count(game_id) as total_games
 from chess_progress
-
 --loooking for W/T/L ratio in the future
+
+select
+    resoult,
+    count(resoult) as sumary
+from 
+    chess_progress 
+group by
+    resoult
 
 select
     'Above_1100' as Rating,
@@ -46,8 +53,6 @@ with
     Daily_time_played as
     (select games_played / days_played * 10.0 as Daily_time_played from days_played,games)
     select * from days_played,Daily_time_played
-
---average playing time on the days i played (in minutes)
 
 
 
