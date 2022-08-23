@@ -53,6 +53,15 @@ with
     Daily_time_played as
     (select games_played / days_played * 10.0 as Daily_time_played from days_played,games)
     select * from days_played,Daily_time_played
+    
+--show daily time played for days played
 
+select
+    distinct(resoult),
+    avg(accuracy) over (partition by resoult) as rating
+from 
+    chess_progress 
+
+-- select average accuracy while w/d/l
 
 
