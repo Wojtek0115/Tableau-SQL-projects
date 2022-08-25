@@ -6,7 +6,7 @@ Link: https://public.tableau.com/app/profile/wojciech2709/viz/Chessprogress/Dash
       🪴 Figma
       🪴 Excel
       🪴 Sql developer
-    
+  
 What skills i gain🤔
      🪴 Tableau parameters
      🪴 Making line, pie, bar charts
