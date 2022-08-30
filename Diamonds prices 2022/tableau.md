@@ -1,3 +1,4 @@
+Tableau link: https://public.tableau.com/app/profile/wojciech2709/viz/Diamondsprices2022/Dashboard1
 <pre>
 🌵 Technologes that i use in this project :
       🪴 Tableau
@@ -23,8 +24,7 @@ Description of database:
    Most variables are numeric in nature, but the variables cut, color, and clarity are ordered factor variables with the following levels
 
 I hope u enjoy it!😄
-![Diamond prieces 2022](https://user-images.githubusercontent.com/98957777/187560072-e155ad92-f030-422c-9299-d41bf7a4f685.png)
-
-Link for database: https://www.kaggle.com/datasets/nancyalaswad90/diamonds-prices
 
 </pre>
+![Diamond prieces 2022](https://user-images.githubusercontent.com/98957777/187560130-43a1f59d-06ae-4d1f-aef2-db9240910610.png)
+Link for database: https://www.kaggle.com/datasets/nancyalaswad90/diamonds-prices
